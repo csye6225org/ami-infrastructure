@@ -1,15 +1,4 @@
-### 1. Packer gitignore
-
-# Cache objects
-packer_cache/
-
-# Crash log
-crash.log
-
-# For built boxes
-*.box
-
-### 2. Terraform gitignore
+### Terraform gitignore
 
 # Local .terraform directories
 **/.terraform/*
